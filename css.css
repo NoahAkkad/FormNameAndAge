@@ -1,0 +1,48 @@
+:root{
+ background:url(/scott-graham-OQMZwNd3ThU-unsplash.jpg);
+ background-size: cover;
+ background-repeat:repeat;
+ background-position: center;
+ text-shadow: 2px 2px #82818168;
+ font-family: 'Times New Roman', Times, serif;
+ 
+ 
+ 
+
+}
+form{
+text-align:left;
+border-style:dotted;
+border: ridge 10px;
+background-color: rgba(148, 127, 255, 0.324);
+border-radius: 0.654rem;
+position:fixed;
+
+
+
+}
+button{
+ width: 80px;
+ border: none;
+}
+#fname{
+ width: 200px;
+ border: none;
+ padding: 5px;
+}
+#lname{
+ width: 200px;
+ border:none;
+ padding: 5px;
+}
+#age{
+ width: 35px;border:none;
+}
+form{
+ align-items: center;
+}
+.demo{
+
+ border-color: black;
+ color: aqua;
+}
